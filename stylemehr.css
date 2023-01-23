@@ -44,7 +44,7 @@ nav a {
 .column-left {
     display: flex;
     flex-direction: column;
-    justify-content: baseline;
+    justify-content: center;
     align-items: flex-start;
     color: black;
     padding: 0rem 2rem
